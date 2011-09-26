@@ -23,14 +23,14 @@
 		DDC7956E14300E430055674A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DDC7957014300E430055674A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DDC7957214300E430055674A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DDC7957614300E430055674A /* iphone1-Info.plist */ = {isa = PBXFileReference; path = "iphone1-Info.plist"; sourceTree = "<group>"; };
+		DDC7957614300E430055674A /* iphone1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iphone1-Info.plist"; sourceTree = "<group>"; };
 		DDC7957814300E430055674A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DDC7957A14300E430055674A /* iphone1-Prefix.pch */ = {isa = PBXFileReference; path = "iphone1-Prefix.pch"; sourceTree = "<group>"; };
+		DDC7957A14300E430055674A /* iphone1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iphone1-Prefix.pch"; sourceTree = "<group>"; };
 		DDC7957B14300E430055674A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DDC7957D14300E430055674A /* iphone1AppDelegate.h */ = {isa = PBXFileReference; path = iphone1AppDelegate.h; sourceTree = "<group>"; };
+		DDC7957D14300E430055674A /* iphone1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iphone1AppDelegate.h; sourceTree = "<group>"; };
 		DDC7957E14300E430055674A /* iphone1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iphone1AppDelegate.m; sourceTree = "<group>"; };
 		DDC7958114300E430055674A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		DDC7958314300E430055674A /* iphone1ViewController.h */ = {isa = PBXFileReference; path = iphone1ViewController.h; sourceTree = "<group>"; };
+		DDC7958314300E430055674A /* iphone1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iphone1ViewController.h; sourceTree = "<group>"; };
 		DDC7958414300E430055674A /* iphone1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iphone1ViewController.m; sourceTree = "<group>"; };
 		DDC7958714300E430055674A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/iphone1ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
